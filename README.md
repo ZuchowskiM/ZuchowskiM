@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/ZuchowskiM/ZuchowskiM/main/githubBanner.png?token=AOADGL6PORWNIMIUWS54LTDAR7C66" alt="Hey, I'm Michał [banner]" />
 
+<h3 align="left">About Me:</h3>
+Currently 22 years old, polish IT student. In development I mostly enjoy problem solving and learning new tools.
+Free time is spent on running (getting fat here is really easy), gaming (Witcher 3 is best RPG, deal with it) or guitar practice.
+
 - 🔭 I’m currently working on [Choorts](https://github.com/ZuchowskiM/Choorts)
 
 - 🌱 I’m currently learning **Kotlin, flutter, dart**
@@ -7,10 +11,6 @@
 - 💬 Ask me about **Android, C++ or meaning of life**
 
 - ⚡ Fun fact **HTML is not a programming language**
-
-<h3 align="left">About Me</h3>
-Currently 22 years old, polish IT student. In development I mostly enjoy problem solving and learning new tools.
-Free time is spent on running (getting fat here is really easy), gaming (Witcher 3 is best RPG, deal with it) or guitar practice.
 
 
 <h3 align="left">Languages and Tools:</h3>
