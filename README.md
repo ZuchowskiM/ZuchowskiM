@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/ZuchowskiM/ZuchowskiM/master/githubBanner.png" alt="Hey, I'm Michał [banner]" />
+<img src="https://raw.githubusercontent.com/ZuchowskiM/ZuchowskiM/main/githubBanner.png?token=AOADGL6PORWNIMIUWS54LTDAR7C66" alt="Hey, I'm Michał [banner]" />
 
 <!--
 **ZuchowskiM/ZuchowskiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
