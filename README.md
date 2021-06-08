@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ZuchowskiM/ZuchowskiM/main/githubBanner.png?token=AOADGL6PORWNIMIUWS54LTDAR7C66" alt="Hey, I'm Michał [banner]" />
+<img src="https://raw.githubusercontent.com/ZuchowskiM/ZuchowskiM/main/banner.png" alt="Hey, I'm Michał [banner]" />
 
 <h3 align="left">About Me:</h3>
 Currently 22 years old, polish IT student. In development I mostly enjoy problem solving and learning new tools.
